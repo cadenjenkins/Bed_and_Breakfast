@@ -1,0 +1,27 @@
+.container{
+  text-align: center;
+  padding-top:10px;
+}
+.navbar-expand-lg, a{
+  color:white;
+  background-color:DimGray;
+  text-decoration:none;
+  padding-right:200px;
+  padding-left:200px;
+  padding-bottom:10px;
+  text-align:center;
+}
+
+.navbar-expand-lg, a:hover{
+  text-decoration:none;
+}
+
+footer{
+  margin-top:670px;
+  background-color:DimGray;
+  color:white;
+}
+
+iframe{
+  padding-top:10px;
+}
